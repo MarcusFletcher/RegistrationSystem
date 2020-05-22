@@ -1,0 +1,16 @@
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\bin\Debug\netcoreapp2.2\Registration System.deps.json
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\bin\Debug\netcoreapp2.2\Registration System.runtimeconfig.json
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\bin\Debug\netcoreapp2.2\Registration System.runtimeconfig.dev.json
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\bin\Debug\netcoreapp2.2\Registration System.dll
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\bin\Debug\netcoreapp2.2\Registration System.pdb
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\obj\Debug\netcoreapp2.2\Registration System.csprojAssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\obj\Debug\netcoreapp2.2\Registration System.RazorAssemblyInfo.cache
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\obj\Debug\netcoreapp2.2\Registration System.RazorAssemblyInfo.cs
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\obj\Debug\netcoreapp2.2\Registration System.AssemblyInfoInputs.cache
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\obj\Debug\netcoreapp2.2\Registration System.AssemblyInfo.cs
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\obj\Debug\netcoreapp2.2\Registration System.RazorTargetAssemblyInfo.cache
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\obj\Debug\netcoreapp2.2\Registration System.dll
+C:\Users\Marcus\Documents\GitHub\PlayerRegistration\TournamentMonitor\obj\Debug\netcoreapp2.2\Registration System.pdb

@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App">
+      <PrivateAssets Condition="'%(PackageReference.Version)' == ''">all</PrivateAssets>
+      <Publish Condition="'%(PackageReference.Version)' == ''">true</Publish>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="2.2.1" />
+    <PackageReference Include="Microsoft.AspNet.Razor" Version="3.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Language" Version="2.2.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.4" />
+    <PackageReference Include="RazorLight" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190204144405_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190204144405_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190205101508_initialcreate.cs" />
+    <Compile Remove="Migrations\20190205102257_initialcreate.cs" />
+    <Compile Remove="Migrations\20190207114206_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190208093852_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190208104140_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190208105037_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190208105643_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190208105751_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190208124655_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190211135310_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190211150228_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190211152537_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190211154130_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190212132218_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190212132218_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190302184257_initialcreate.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Common\" />
+  </ItemGroup>
+</Project>
